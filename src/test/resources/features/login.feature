@@ -4,4 +4,4 @@ Feature:  Login
     When User validates the homepage title
     Then User entered the username
     And User entered the password
-    Then User should be succesfully logged in
+    Then User should be successfully logged in
